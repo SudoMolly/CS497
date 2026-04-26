@@ -1,0 +1,24 @@
+Line 10000: (0, 0, 1)Line 20000: (0, 0, 0)Line 30000: (0, 20, 0)Line 40000: (0, 4, 0)Line 50000: (0, 8, 0)Line 60000: (0, 0, 0)Line 70000: (0, 0, 5)Line 80000: (0, 3, 0)Line 90000: (0, 39, 0)Line 100000: (0, 23, 0)Line 110000: (0, 0, 1)Line 120000: (0, 0, 72)Line 130000: (0, 0, 0)Line 140000: (0, 56, 0)Line 150000: (0, 38, 0)Line 160000: (0, 0, 1)Line 170000: (0, 0, 164)Line 180000: (0, 0, 1)Line 190000: (0, 33, 0)Line 200000: (0, 33, 0)Line 210000: (0, 25, 0)Line 220000: (0, 0, 2)Line 230000: (0, 0, 0)Line 240000: (0, 16, 0)Line 250000: (0, 24, 0)Line 260000: (0, 8, 0)Line 270000: (0, 0, 3)Line 280000: (0, 0, 0)Line 290000: (0, 0, 1)Line 300000: (0, 46, 0)Total Number of lines = 307200
+|========|==========|==========|==========|
+|  Data  | Column 1 | Column 2 | Column 3 |
+|========|==========|==========|==========|
+|--Max---|-255     -|-255     -|-255     -|
+|--Min---|-0       -|-0       -|-0       -|
+|--Mean--|-14      -|-14      -|-14      -|
+|--Total-|-307200  -|-307200  -|-307200  -|
+|--0Count|-232382  -|-232382  -|-232382  -|
+|--#Count|-74818   -|-74818   -|-74818   -|
+|========|==========|==========|==========|
+Wrote Bytes: 
+	Column 1:
+		Column 1 Dictionary: 78                      Bytes
+		Column 1 Array     : 615111                  Bytes
+	Column 1:
+		Column 1 Dictionary: 78                      Bytes
+		Column 1 Array     : 615111                  Bytes
+	Column 1:
+		Column 1 Dictionary: 78                      Bytes
+		Column 1 Array     : 615111                  Bytes
+	Total:
+		Array Size         : 1845310                 Bytes
+		Total Size         : 3690901                 Bytes
